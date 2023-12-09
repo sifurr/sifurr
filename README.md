@@ -76,11 +76,6 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifurr&theme=yeblu)
 
-
-<div style="display:flex; justify-content: space-between;">    
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifurr&theme=yeblu" alt="Productive Time" width="100%"/>
-</div>
-
 <br />
 
 
