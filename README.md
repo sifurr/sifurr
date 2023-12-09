@@ -10,6 +10,14 @@
 Greetings, fellow coder! I'm a fresh face in the coding universe, currently immersed in the enchanting <strong>MERN</strong> stack. On a quest to craft clean, efficient solutions. Seeking opportunities to contribute to innovative projects and turn my thoughts into reality.
 
 
+## 💻 Technologies that I Know
+
+- **Frontend:** HTML, CSS, JavaScript (React)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,firebase,postman,linux,cpp&theme=light)](https://skillicons.dev)
+
 # 🚀 My Projects
 
 ## 1. Edugram
@@ -100,13 +108,6 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 
 
 
-## 💻 Technologies that I Know
-
-- **Frontend:** HTML, CSS, JavaScript (React)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mongodb,firebase,postman,linux,cpp&theme=light)](https://skillicons.dev)
 
 ## 🚀 Current Overview
 
