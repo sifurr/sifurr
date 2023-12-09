@@ -66,19 +66,21 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sifurr/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifurr&theme=yeblu)
-
-
-<div style="display:flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sifurr&theme=yeblu" alt="Stats" width="50%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifurr&theme=yeblu" alt="Productive Time" width="50%"/>
-</div>
-
-<br />
-
 <div style="display:flex; justify-content: space-between;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifurr&theme=yeblu" alt="Stats" width="50%"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifurr&theme=yeblu&utcOffset=6" alt="Productive Time" width="50%"/>
 </div>
+
+<br />
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifurr&theme=yeblu)
+
+
+<div style="display:flex; justify-content: space-between;">    
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sifurr&theme=yeblu" alt="Productive Time" width="100%"/>
+</div>
+
+<br />
+
 
