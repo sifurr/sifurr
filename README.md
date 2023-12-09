@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Saifur Rahman!
 
-### Aspiring MERN Developer ✨
+### Embarking on the MERN Development Path ✨
 
 Greetings, fellow coder! I'm a fresh face in the coding universe, currently immersed in the enchanting <strong>MERN</strong> stack. On a quest to craft clean, efficient solutions. Seeking opportunities to contribute to innovative projects and turn my thoughts into reality.
 
@@ -19,7 +19,21 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 - [Client](https://github.com/sifurr/edugram-client.git)
 - [Server](https://github.com/sifurr/edugram-server.git)
 
-**Edugram** is a fullstack web application designed to explore the LMS. It seamlessly integrates frontend and backend technologies, ensuring a secure payment process through Stripe. The platform boasts a responsive design with a customizable dark mode and supports role-based authentication for students, teachers, and admins. Teachers can easily apply for roles, create and manage courses, assignments, and receive valuable feedback from students. Edugram leverages technologies such as React, Node.js, MongoDB, and Firebase for a dynamic and engaging user experience. 
+**Edugram** is a fullstack web application on learning management system (LMS). It seamlessly integrates frontend and backend technologies, featuring secure payment processing through Stripe, a responsive design with customizable dark mode, and role-based authentication for students, teachers, and admins. Teachers can effortlessly apply for roles, manage courses, assignments, and receive valuable student feedback.
+
+- **Seamless Integration:** Frontend and backend technologies work in harmony.
+- **Role-Based Authentication:** Ensures secure access for students, teachers, and admins.
+- **Responsive Design:** Provides an optimal user experience across devices.
+- **Dynamic Dark Mode:** Enhances user experience with  dark mode switcher.
+
+**Technologies:**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+- Node.js
+- MongoDB
+- Firebase
 
 
 ## 2. Sharing Surplus Food
@@ -29,8 +43,22 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 - [Client](https://github.com/sifurr/sharing-surplus-food-client.git)
 - [Server](https://github.com/sifurr/sharing-surplus-food-server.git)
 
-**Sharing Surplus Food** is a community-driven platform addressing food surplus and scarcity. Users can contribute surplus food through the frontend and request available items. The platform ensures secure interactions with authentication and authorization implemented using JWT. Key features include dynamic data fetching with Tanstack Query, Firebase authentication for user creation, and an engaging user interface with Flowbite and Tanstack-react-table. Users have control over managing their listed foods, and the responsive design ensures accessibility across devices. Additional enhancements include dynamic page title display and a smooth page scrolling progress animation with Framer Motion.
+**Sharing Surplus Food** is a community-driven platform addressing food surplus and scarcity. Users can contribute and request surplus food securely. The platform employs JWT for authentication, Tanstack Query for dynamic data fetching, and features a responsive design for accessibility. Enhancements include a dynamic page title and smooth scrolling with Framer Motion.
 
+- **Community-Driven:** Addresses food surplus and scarcity through user contributions.
+- **Secure Interactions:** Implemented JWT for authentication and authorization.
+- **Dynamic Data Fetching:** Utilizes Tanstack Query for efficient data retrieval.
+- **Responsive Design:** Ensures accessibility across devices.
+- **Enhancements:** Dynamic page title display and smooth scrolling.
+
+**Technologies:**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+- Node.js
+- MongoDB
+- Firebase
 
 ## 3. Brand Shop
 
@@ -39,7 +67,25 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 - [Client](https://github.com/sifurr/brandshop-client.git)
 - [Server](https://github.com/sifurr/brandshop-server.git)
 
-**Brand Shop** is an innovative platform designed for a seamless shopping experience. The frontend, built with email and password-based authentication and authorization using Firebase, offers secure user interactions. Additional features include social login with Google, user-friendly interfaces for product management, dynamic image population for sliders, and MongoDB for efficient data storage. The site is fully responsive across mobile, tablet, and desktop devices, with a Dark/Light mode toggler enhancing the user experience.
+
+
+**Brand Shop** offers a seamless shopping experience with Firebase-powered authentication for secure interactions. Features include social login, user-friendly interfaces, dynamic image sliders, and MongoDB for efficient data storage. The site is fully responsive across devices, featuring a Dark/Light mode toggler.
+
+- **Secure Interactions:** Firebase-powered authentication for email and password.
+- **Engaging Features:** Social login, user-friendly interfaces, and dynamic image sliders.
+- **Responsive Design:** Ensures optimal user experience.
+- **Dark/Light Mode Toggler:** Enhances user experience with customizable themes.
+
+**Technologies:**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+- Node.js
+- MongoDB
+- Firebase
+
+
 
 
 ## 🌐 Reach Me Out
@@ -64,18 +110,11 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 
 ## 🚀 Current Overview
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sifurr/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)
 
-<div style="display:flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifurr&theme=yeblu" alt="Stats" width="50%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifurr&theme=yeblu&utcOffset=6" alt="Productive Time" width="50%"/>
+<div align="center">
+    <img src="https://api.githubtrends.io/user/svg/sifurr/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=bright_lights" alt="Stats" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sifurr&theme=yeblu" alt="Stats" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sifurr&theme=yeblu&utcOffset=6" alt="Productive Time" width="400"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifurr&theme=yeblu" alt="Productive Time" width="400"/>
 </div>
-
-<br />
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sifurr&theme=yeblu)
-
-<br />
-
 
