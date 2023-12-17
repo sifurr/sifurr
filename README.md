@@ -98,7 +98,7 @@ Greetings, fellow coder! I'm a fresh face in the coding universe, currently imme
 
 ## 🌐 Reach Me Out
 
-- 📧 **Email:** [tosaifurrahman@gmail.com](mailto:tosaifurrahman@gmail.com)
+- 📧 **Email:** [saifurrahman.dev@gmail.com](mailto:saifurrahman.dev@gmail.com)
 - 🌐 **LinkedIn:** [linkedin.com/in/mr-saifur-rahman](https://www.linkedin.com/in/mr-saifur-rahman)
 
 
