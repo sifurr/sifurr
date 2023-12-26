@@ -5,9 +5,9 @@
 
 # 👋 Hello, I'm Md Saifur Rahman!
 
-### Embarking on the MERN Development Path ✨
+### Embarking on the Frontend Development Path ✨
 
-Greetings, fellow coder! I'm a fresh face in the coding universe, currently immersed in the enchanting <strong>MERN</strong> stack. On a quest to craft clean, efficient solutions. Seeking opportunities to contribute to innovative projects and turn my thoughts into reality.
+Greetings, fellow coder! I'm a fresh face in the coding universe, currently immersed in the <strong>Frontend Development</strong>. On a quest to craft clean, efficient solutions. Seeking opportunities to contribute to innovative projects and turn my thoughts into reality.
 
 
 ## 💻 Technologies that I Know
