@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./banner.gif" alt="Alt Text" style="max-width: 100%; height: auto;">
-</p>
-
-
 # 👋 Hello, I'm Md Saifur Rahman!
 
 ### Embarking on the Frontend Development Path ✨
